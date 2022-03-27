@@ -1,7 +1,7 @@
 # Invoice-DAPP
 
 ## Step 1. Clone the project
-`https://github.com/Anirudha619/NFT_Minter-`
+https://github.com/Anirudha619/Invoice-DAPP
 
 ## Step 2. Install dependencies
 - NPM: https://nodejs.org
