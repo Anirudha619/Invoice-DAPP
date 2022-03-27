@@ -31,3 +31,5 @@ Once Contract is deployed to testnet Then you need to copy the address of the sm
 
 ## Step 6. Run the Local server
 Now once you run the local server then you frontend is ready to interact with smart contract.
+
+![image](https://user-images.githubusercontent.com/92630647/160268722-282f2de5-ce41-4442-8c8d-eeab195b42c8.png)
