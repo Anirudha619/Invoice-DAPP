@@ -23,15 +23,11 @@ Then MetaMask confirmation will pop up click confirm.
 
 
 
-## Step 5.Updating the smart contract address in indel.html file
+## Step 5.Updating the smart contract address in index.html file
 
 Once Contract is deployed to testnet Then you need to copy the address of the smart contract and paste it in address varible in index.html file as shown in figure below
 
+![image](https://user-images.githubusercontent.com/92630647/160268598-5af0918d-d33d-4366-a355-10ecd7da6ff2.png)
 
-![mint](https://user-images.githubusercontent.com/92630647/148552861-dd00a5d3-7f47-49d8-bf92-9d7e682ff3d6.png)
-
-Then Go to Opensea Marketplace and see your NFT 
-
-![opensea](https://user-images.githubusercontent.com/92630647/148553269-9ece2007-7d78-4236-8ab0-292763b26dec.png)
-
-
+## Step 6. Run the Local server
+Now once you run the local server then you frontend is ready to interact with smart contract.
