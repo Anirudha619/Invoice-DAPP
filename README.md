@@ -1,6 +1,6 @@
 # Invoice-DAPP
 
-## Step 1. Clone the project
+## Step 1. Clone this project
 https://github.com/Anirudha619/Invoice-DAPP
 
 ## Step 2. Install dependencies
